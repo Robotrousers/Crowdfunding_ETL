@@ -23,7 +23,8 @@ Resources\
  - `category.csv` - cleaned and exported category DataFrame
  - `subcategory.csv` - cleaned and exported subcategory DataFrame
  - `campaign.csv` - cleaned and exported campaign DataFrame
- - `contacts.csv` - cleaned and exported contacts DataFrame
+ - `contacts_option_one.csv` - cleaned and exported contacts DataFrame for option 1 cleaning
+ - `contacts_option_two.csv` - cleaned and exported contacts DataFrame for option 2 cleaning
  - `crowdfunding_db_schema.sql` - database schema
 
 
