@@ -4,7 +4,7 @@
 The ability to efficiently analyze and manipulate data is extremely important. We have 2 databases in excel files that are not in a clean and easy to access format. We set out to simplfiy and clean our data so that it will be easy to read, iterate upon and utilize for reference.
 
 ### Key Motivations
-To simplify our data and enhance our future productivity, we will create a complete master database in campaign.csv. This data will be easy to access, understand and manipulate with clear column headers and values. We will then create 3 smaller and more specific databases for particular purposes: category, subcategory and contacts. 
+To simplify our data and enhance our future productivity, we will create a complete master database in campaign.csv. This data will be easy to access, understand and manipulate with clear column headers and values. We will then create 3 smaller and more specific databases for particular purposes: category, subcategory and contacts. We will also import all this data into SQL to create a database schema to unify the databases for ease of access.
 
 ### Introduction
 For the ETL mini project, you will work with a partner to practice building an ETL pipeline using Python, Pandas, and either Python dictionary methods or regular expressions to extract and transform the data. After you transform the data, you'll create four CSV files and use the CSV file data to create an ERD and a table schema. Finally, you’ll upload the CSV file data into a Postgres database.
